@@ -16,6 +16,6 @@ REST APIs | Chrome DevTools | AI-assisted dev: GitHub Copilot, Cursor, Claude, C
 
 ### Reach me
 - Email: [kanzegwu@gmail.com](mailto:kanzegwu@gmail.com)
-- LinkedIn: [My LinkedIn Profile](www.linkedin.com/in/kenechukwu-nzegwu-analiefo-gmcpn-05b337312)
+- LinkedIn: [Kenechukwu Analiefo](https://www.linkedin.com/in/kenechukwu-nzegwu-analiefo-gmcpn-05b337312)
 - Website: [zegali.org.ng](https://zegali.org.ng)
 - CV: [View my CV](https://github.com/Damian2025625/Damian2025625/blob/main/Kenechukwu_Analiefo_CV.pdf)
